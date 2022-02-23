@@ -2,6 +2,7 @@
 - 👀 I’m interested in AI/GAN/NLP/CV
 - 🌱 闷声发大财
 - stay slience and make money
+- ShanghaiTech
 
 <!---
 pepinotalam/pepinotalam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
